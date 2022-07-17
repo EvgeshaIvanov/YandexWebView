@@ -46,6 +46,6 @@ class CustomWebViewClient(private val context: Context) : WebViewClient() {
         private const val MAPS_URL = "/maps"
 
         private const val packageNameWeather = "ru.yandex.weatherplugin"
-        private const val packageNameMaps = "ru.yandex.weatherplugin"
+        private const val packageNameMaps = "ru.yandex.yandexmaps"
     }
 }
